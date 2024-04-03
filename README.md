@@ -31,6 +31,6 @@ Above everything else, I think we're proud ourselves for being flexible and for 
 <h2>watch the demo video</h2>
 [![demo](http://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/VIDEO_ID "Optional title")
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/z6fSAmJPm10?si=f0UX3kyDJk8xm6yi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch the video](http://img.youtube.com/vi/z6fSAmJPm10/0.jpg)](https://www.youtube.com/watch?v=z6fSAmJPm10)
 
 ![IMG_2835](https://github.com/sampoder/michigan-magic/assets/39828164/5e3eb26f-2d56-41ca-b82b-ec21feda42c1)
