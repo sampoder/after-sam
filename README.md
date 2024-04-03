@@ -5,6 +5,7 @@ We asked everyone, what's a moment from this weekend that you're grateful for? A
 ![cut](https://github.com/sampoder/michigan-magic/assets/39828164/4d98ebee-0f9f-4c18-9ef2-c30287d5a78f)
 
 <h2>watch the demo video</h2>
+
 [![Watch the video](http://img.youtube.com/vi/UHMP6oRaWqQ/0.jpg)](https://www.youtube.com/watch?v=UHMP6oRaWqQ)
 
 <h2>Inspiration</h2>
