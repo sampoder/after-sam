@@ -4,6 +4,9 @@ We asked everyone, what's a moment from this weekend that you're grateful for? A
 
 ![cut](https://github.com/sampoder/michigan-magic/assets/39828164/4d98ebee-0f9f-4c18-9ef2-c30287d5a78f)
 
+<h2>watch the demo video</h2>
+[![Watch the video](http://img.youtube.com/vi/UHMP6oRaWqQ/0.jpg)](https://www.youtube.com/watch?v=UHMP6oRaWqQ)
+
 <h2>Inspiration</h2>
 
 We love hackathons; however, we hate how after hackathons it was really hard to remember what the experience was like (especially considering the sleep deprivation!). Audio is magical. Two of our teammates, Thomas & Dieter, have been recording a weekly podcast together for the past two years (with over 100 episodes), and they've found it's a great way to preserve their stories of their time collaborating together. We built this tool to give everyone at this event the opportunity to easily collaborate on a artifact of our time together at MHacks this weekend.
@@ -27,10 +30,5 @@ Above everything else, I think we're proud ourselves for being flexible and for 
 <h2>What's next for Michigan Magic</h2>
 
 <p>Time will tell... but we definitely love VR and want to keep building for it. For Michigan Magic specifically, we imagine this as a tool that MHacks attendees will come back to for weeks, months, and years to come to tell the story of this magical weekend we had together.</p>
-
-<h2>watch the demo video</h2>
-[![demo](http://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/VIDEO_ID "Optional title")
-
-[![Watch the video](http://img.youtube.com/vi/z6fSAmJPm10/0.jpg)](https://www.youtube.com/watch?v=z6fSAmJPm10)
 
 ![IMG_2835](https://github.com/sampoder/michigan-magic/assets/39828164/5e3eb26f-2d56-41ca-b82b-ec21feda42c1)
